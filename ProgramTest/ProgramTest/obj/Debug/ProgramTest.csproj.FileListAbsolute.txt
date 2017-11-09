@@ -1,0 +1,6 @@
+F:\LeetCode\visual studio\ProgramTest\ProgramTest\bin\Debug\ProgramTest.exe.config
+F:\LeetCode\visual studio\ProgramTest\ProgramTest\obj\Debug\ProgramTest.csprojResolveAssemblyReference.cache
+F:\LeetCode\visual studio\ProgramTest\ProgramTest\bin\Debug\ProgramTest.exe
+F:\LeetCode\visual studio\ProgramTest\ProgramTest\bin\Debug\ProgramTest.pdb
+F:\LeetCode\visual studio\ProgramTest\ProgramTest\obj\Debug\ProgramTest.exe
+F:\LeetCode\visual studio\ProgramTest\ProgramTest\obj\Debug\ProgramTest.pdb
